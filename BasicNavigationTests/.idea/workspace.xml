@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96bbefd5-f3a5-4798-b31b-78eeff6aa581" name="Default Changelist" comment="" />
+    <list default="true" id="96bbefd5-f3a5-4798-b31b-78eeff6aa581" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Summer2019OnLineTestNGSeleniumProject" beforeDir="false" afterPath="$PROJECT_DIR$/../Summer2019OnLineTestNGSeleniumProject" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1TAqiRKOQ03kmM2btXR0plSivx7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -132,6 +136,37 @@
       <option name="presentableId" value="Default" />
       <updated>1572913374993</updated>
     </task>
+    <task id="LOCAL-00001" summary="New trial in intellij">
+      <created>1573967120405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573967120405</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New trial in intellij again">
+      <created>1573967196446</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573967196446</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New trial in intellij" />
+    <MESSAGE value="New trial in intellij again" />
+    <option name="LAST_COMMIT_MESSAGE" value="New trial in intellij again" />
   </component>
 </project>
