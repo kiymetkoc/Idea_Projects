@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96bbefd5-f3a5-4798-b31b-78eeff6aa581" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cbt/tests/Testcase2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cbt/tests/Testcase_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cbt/tests/Testcase_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cbt/tests/Testcase_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cbt/tests/Testcase_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UdemyPractise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UdemyPractise/src/test/java/tests/CssSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UdemyPractise/src/test/java/tests/Registration_form.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UdemyPractise/src/test/java/tests/X_path.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Summer2019OnLineTestNGSeleniumProject" beforeDir="false" afterPath="$PROJECT_DIR$/../Summer2019OnLineTestNGSeleniumProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UdemyPractise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UdemyPractise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UdemyPractise/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UdemyPractise/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +47,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
@@ -49,9 +62,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TitleVerification3">
-    <configuration name="NavigationTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cbt.tests.NavigationTests" />
+  <component name="RunManager" selected="Application.Testcase_4">
+    <configuration name="Testcase2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cbt.tests.Testcase2" />
       <module name="BasicNavigationTests" />
       <extension name="coverage">
         <pattern>
@@ -63,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TitleVerification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cbt.utilities.TitleVerification" />
+    <configuration name="Testcase_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cbt.tests.Testcase_1" />
       <module name="BasicNavigationTests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cbt.utilities.*" />
+          <option name="PATTERN" value="com.cbt.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TitleVerification2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cbt.utilities.TitleVerification2" />
+    <configuration name="Testcase_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cbt.tests.Testcase_3" />
       <module name="BasicNavigationTests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cbt.utilities.*" />
+          <option name="PATTERN" value="com.cbt.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TitleVerification3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cbt.utilities.TitleVerification3" />
+    <configuration name="Testcase_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cbt.tests.Testcase_4" />
       <module name="BasicNavigationTests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cbt.utilities.*" />
+          <option name="PATTERN" value="com.cbt.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="getTitle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cbt.tests.getTitle" />
+    <configuration name="Testcase_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cbt.tests.Testcase_5" />
       <module name="BasicNavigationTests" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TitleVerification3" />
-        <item itemvalue="Application.TitleVerification2" />
-        <item itemvalue="Application.TitleVerification" />
-        <item itemvalue="Application.getTitle" />
-        <item itemvalue="Application.NavigationTests" />
+        <item itemvalue="Application.Testcase_4" />
+        <item itemvalue="Application.Testcase_3" />
+        <item itemvalue="Application.Testcase2" />
+        <item itemvalue="Application.Testcase_1" />
+        <item itemvalue="Application.Testcase_5" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573967196446</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New trial in intellij again">
+      <created>1574035755091</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574035755091</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,7 +178,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

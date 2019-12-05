@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a310563-37a6-4e8d-94d7-75add0921b7a" name="Default Changelist" comment="" />
+    <list default="true" id="4a310563-37a6-4e8d-94d7-75add0921b7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BasicNavigationTests/src/test/java/com/cbt/tests/Testcase2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicNavigationTests/src/test/java/com/cbt/tests/Testcase_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicNavigationTests/src/test/java/com/cbt/tests/Testcase_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicNavigationTests/src/test/java/com/cbt/tests/Testcase_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicNavigationTests/src/test/java/com/cbt/tests/Testcase_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/CssSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Registration_form.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/X_path.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicNavigationTests/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicNavigationTests/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Summer2019OnLineTestNGSeleniumProject" beforeDir="false" afterPath="$PROJECT_DIR$/../Summer2019OnLineTestNGSeleniumProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +29,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,7 +40,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1TJJ3UioqMTF7h05Yj2V0zqWxPX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -41,9 +60,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClassNameLocator">
-    <configuration name="Basic1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tests.Basic1" />
+  <component name="RunManager" selected="Application.Registration_form">
+    <configuration name="ClassNameLocator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.ClassNameLocator" />
       <module name="UdemyPractise" />
       <extension name="coverage">
         <pattern>
@@ -55,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassNameLocator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tests.ClassNameLocator" />
+    <configuration name="CssSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.CssSelector" />
       <module name="UdemyPractise" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Parent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tests.Parent" />
+    <configuration name="Registration_form" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.Registration_form" />
       <module name="UdemyPractise" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tests.demo" />
+    <configuration name="X_path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.X_path" />
       <module name="UdemyPractise" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Registration_form" />
+        <item itemvalue="Application.CssSelector" />
+        <item itemvalue="Application.X_path" />
         <item itemvalue="Application.ClassNameLocator" />
         <item itemvalue="Application.FindLocators" />
-        <item itemvalue="Application.demo" />
-        <item itemvalue="Application.Parent" />
-        <item itemvalue="Application.Basic1" />
       </list>
     </recent_temporary>
   </component>
@@ -129,5 +148,16 @@
       <updated>1573172065651</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
